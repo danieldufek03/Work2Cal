@@ -96,7 +96,7 @@ def main():
           },
           'end': {
             'dateTime': workEnd,
-            'timeZone': 'America/Los_Angeles',
+            'timeZone': 'America/New_York',
           },
           'reminders': {
             'useDefault': False,
